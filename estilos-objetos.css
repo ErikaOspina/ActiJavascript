@@ -1,0 +1,72 @@
+h1 {
+    color: purple;
+    font-family: 'Dancing script', cursive;
+    margin-top: 70px;
+    margin-bottom: 40px;
+}
+
+
+h1:hover {
+    color: white;
+}
+
+
+
+body {
+    background-color: lightblue;
+}
+
+
+
+.form-control {
+   width: 500px;
+   margin-left: 200px;
+   margin-top: 10px;
+}
+
+
+
+.btn {
+    background-color: purple;
+    border-color: black;
+    color: white;
+}
+
+
+.btn:hover {
+    background-color: lightslategray;
+    border-color: black;
+    color: black;
+}
+
+
+
+input {
+    margin-top: 50px;
+    margin-left: 22px;
+}
+
+button {
+    margin-top: 50px;
+    margin-left: -13px;
+}
+
+
+div {
+    color: black;
+    font-family: 'Dancing script', cursive;
+}
+
+
+h2 {
+    color: purple;
+    margin-left: 180px;
+    margin-top: 40px;
+}
+
+
+h2:hover {
+    color: azure;
+}
+
+
